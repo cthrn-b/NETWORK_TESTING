@@ -9,7 +9,7 @@ This focuses on measuring and analyzing **network performance metrics** such as 
 - Measure **jitter** by simulating and monitoring different types of traffic.
 - Document results and propose **network optimizations**.
 
-## Lab Requirements
+## Requirements
 - **Software**: Cisco Packet Tracer
 - **Devices**: At least **two routers** and **two PCs** (one as a client, one as a server)
 - **Tools**:
@@ -17,12 +17,12 @@ This focuses on measuring and analyzing **network performance metrics** such as 
   - **Traffic Generator** for bandwidth and jitter analysis
   - **Packet Sniffer** for detailed network traffic analysis
 
-## Lab Setup
+## Setup
 1. **Create a simple network topology** with two routers and two PCs.
 2. **Set up a LAN or WAN** between routers and assign IP addresses.
 3. **Ensure basic connectivity** using ping tests.
 
-## Lab Tasks
+## Tasks
 ### Task 1: Latency & Packet Loss Testing
 - Use **ping** to measure **round-trip time (RTT)**.
 - Use **traceroute** to identify network path and latency at each hop.
